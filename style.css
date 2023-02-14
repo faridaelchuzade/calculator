@@ -37,7 +37,7 @@ body {
 
 .output {
     grid-column: 1 / -1;
-    background-color: rgba(75, 0, 188, 0.9);
+    background-color: rgba(242, 122, 48, 0.9);
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
